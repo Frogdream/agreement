@@ -48,5 +48,5 @@
 
 
 Frogdream Authority <admin@frogdream.xyz> https://frogdream.xyz/public.asc
-Arseniy Motorin <cubelius@icloud.com>
+Arsenii Motorin <cubelius@icloud.com>
 Nikolay Garanin <kolyakot33@gmail.com>
