@@ -1,2 +1,0 @@
-# agreement
-Frogdream Developers Agreement
