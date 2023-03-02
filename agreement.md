@@ -45,3 +45,7 @@
 ## Последующие изменения соглашения
 
 Последующие изменения соглашения оповещаются с пингом @everyone в Discord сервере Frogdream Developers.
+
+Frogdream Authority <admin@frogdream.xyz>
+Arseniy Motorin <cubelius@icloud.com>
+Nikolay Garanin <kolyakot33@gmail.com>
